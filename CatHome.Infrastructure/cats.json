@@ -1,0 +1,145 @@
+[
+{
+"id": 1,
+"name": "Whiskers",
+"birthdate": "2019-01-01",
+"color": "tan",
+"sex": "female",
+"town": 12,
+"personality": [ "affectionate", "shy" ],
+"disability": "blind",
+"livesWith": [2]
+},
+{
+"id": 2,
+"name": "Fluffy",
+"birthdate": "2020-04-15",
+"color": "white",
+"sex": "male",
+"town": 7,
+"personality": ["independent"],
+"livesWith": [1]
+},
+{
+"id": 3,
+"name": "Mittens",
+"birthdate": "2016-11-30",
+"color": "orange, and white tabby",
+"sex": "female",
+"town": 19,
+"personality": [ "outgoing" ]
+},
+{
+"id": 4,
+"name": "Tiger",
+"birthdate": "2022-02-22",
+"color": "brown and black tabby",
+"sex": "male",
+"town": 3,
+"personality": [ "affectionate", "outgoing" ]
+},
+{
+"id": 5,
+"name": "Oreo",
+"birthdate": "2018-05-10",
+"color": "tuxedo",
+"sex": "male",
+"town": 11,
+"personality": [ "independent","shy" ],
+"disability": "3 legs",
+"livesWith": [6,7]
+},
+{
+"id": 6,
+"name": "Cinnamon",
+"birthdate": "2017-03-28",
+"color": "orange",
+"sex": "female",
+"town": 4,
+"personality": [ "affectionate","outgoing" ],
+"livesWith": [5,7]
+},
+{
+"id": 7,
+"name": "Smokey",
+"birthdate": "2019-08-15",
+"color": "gray",
+"sex": "male",
+"town": 2,
+"personality": [ "independent","shy" ],
+"livesWith": [5,6]
+},
+{
+"id": 8,
+"name": "Pumpkin",
+"birthdate": "2020-10-31",
+"color": "orange",
+"sex": "female",
+"town": 9,
+"personality": [ "affectionate", "outgoing" ]
+},
+{
+"id": 9,
+"name": "Bella",
+"birthdate": "2015-07-20",
+"color": "black",
+"sex": "female",
+"town": 14,
+"personality": [ "independent", "shy" ],
+"disability": "deaf"
+},
+{
+"id": 10,
+"name": "Luna",
+"birthdate": "2021-01-04",
+"color": "white",
+"sex": "female",
+"town": 8,
+"personality": [ "affectionate", "outgoing" ]
+},
+{
+"id": 11,
+"name": "Oliver",
+"birthdate": "2016-06-12",
+"color": "orange and white calico",
+"sex": "male",
+"town": 6,
+"personality": [ "independent", "shy" ]
+},
+{
+"id": 12,
+"name": "Shadow",
+"birthdate": "2018-10-25",
+"color": "black",
+"sex": "male",
+"town": 5,
+"personality": [ "independent", "shy" ]
+},
+{
+"id": 13,
+"name": "Milo",
+"birthdate": "2017-09-02",
+"color": "gray and white calico",
+"sex": "male",
+"town": 10,
+  "personality": [ "affectionate", "shy" ]
+},
+{
+"id": 14,
+"name": "Coco",
+"birthdate": "2021-04-30",
+"color": "brown",
+"sex": "female",
+"town": 15,
+"personality": [ "independent", "shy" ]
+},
+{
+"id": 15,
+"name": "Simba",
+"birthdate": "2019-12-01",
+"color": "orange",
+"sex": "male",
+"town": 16,
+"personality": [ "affectionate", "outgoing" ]
+}
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "New York City",
+    "country": "United States",
+    "population": 8399000
+  },
+  {
+    "id": 2,
+    "name": "Tokyo",
+    "country": "Japan",
+    "population": 13929286
+  },
+  {
+    "id": 3,
+    "name": "London",
+    "country": "United Kingdom",
+    "population": 8908081
+  },
+  {
+    "id": 4,
+    "name": "Shanghai",
+    "country": "China",
+    "population": 24256800
+  },
+  {
+    "id": 5,
+    "name": "São Paulo",
+    "country": "Brazil",
+    "population": 12176866
+  },
+  {
+    "id": 6,
+    "name": "Moscow",
+    "country": "Russia",
+    "population": 12678079
+  },
+  {
+    "id": 7,
+    "name": "Istanbul",
+    "country": "Turkey",
+    "population": 15175000
+  },
+  {
+    "id": 8,
+    "name": "Lahore",
+    "country": "Pakistan",
+    "population": 12188000
+  },
+  {
+    "id": 9,
+    "name": "Mumbai",
+    "country": "India",
+    "population": 12442373
+  },
+  {
+    "id": 10,
+    "name": "Paris",
+    "country": "France",
+    "population": 2140526
+  },
+  {
+    "id": 11,
+    "name": "Bangkok",
+    "country": "Thailand",
+    "population": 8205215
+  },
+  {
+    "id": 12,
+    "name": "Beijing",
+    "country": "China",
+    "population": 21516000
+  },
+  {
+    "id": 13,
+    "name": "Los Angeles",
+    "country": "United States",
+    "population": 3990456
+  },
+  {
+    "id": 14,
+    "name": "Seoul",
+    "country": "South Korea",
+    "population": 9720846
+  },
+  {
+    "id": 15,
+    "name": "Jakarta",
+    "country": "Indonesia",
+    "population": 10770487
+  },
+  {
+    "id": 16,
+    "name": "Delhi",
+    "country": "India",
+    "population": 317797
+  },
+  {
+    "id": 17,
+    "name": "Cairo",
+    "country": "Egypt",
+    "population": 20484975
+  },
+  {
+    "id": 18,
+    "name": "Mexico City",
+    "country": "Mexico",
+    "population": 8720916
+  },
+  {
+    "id": 19,
+    "name": "Osaka",
+    "country": "Japan",
+    "population": 1922265
+  },
+  {
+    "id": 20,
+    "name": "Chicago",
+    "country": "United States",
+    "population": 2705994
+  }
+]
