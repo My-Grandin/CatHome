@@ -12,12 +12,12 @@ namespace CatHome.Infrastructure.Context
             if (jsonString.StartsWith("["))
             {
                 var data = JsonConvert.DeserializeObject<List<T>>(jsonString);
-                return data ?? new List<T>(); // Returnera data om det inte är null, annars en ny tom lista
+                return data ?? new List<T>(); 
             }
             else
             {
                 var singleData = JsonConvert.DeserializeObject<T>(jsonString);
-                var listOfData = singleData != null ? new List<T> { singleData } : new List<T>(); // Skapa en lista med singleData om det inte är null, annars en tom lista
+                var listOfData = singleData != null ? new List<T> { singleData } : new List<T>(); 
                 return listOfData;
             }
         }
